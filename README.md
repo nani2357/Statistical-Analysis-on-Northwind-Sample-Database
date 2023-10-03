@@ -1,4 +1,4 @@
-# Statistical-Analysis-on-Northwind-Sample-Database
+# Statistical-Analysis-on-Northwind-Sample Database
 
 
 ## Overview
